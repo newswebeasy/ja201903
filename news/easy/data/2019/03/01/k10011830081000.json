@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011830081000",
+  "news_prearranged_time": "2019-03-01 11:30:00",
+  "title": "インスタントのラーメンの値段が６月から上がる",
+  "title_with_ruby": "インスタントのラーメンの<ruby>値段<rt>ねだん</rt></ruby>が６<ruby>月<rt>がつ</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>インスタント</a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>ラーメン</a>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190227/../20190227/K10011830081_1902271803_1902271804_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011830081000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011830081000/k10011830081000.html"
+}

@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "もうけるために<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>をすること。",
+          "hyouki": [
+            "営業"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>約束</rb><rt>やくそく</rt></ruby>をすること。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて<ruby><rb>約束</rb><rt>やくそく</rt></ruby>すること。",
+          "hyouki": [
+            "契約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ]
+    }
+  }
+}

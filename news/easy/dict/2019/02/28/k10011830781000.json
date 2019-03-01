@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "鯨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>が、<ruby><rb>海</rb><rt>うみ</rt></ruby>または<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れこむ<ruby><rb>所</rb><rt>ところ</rt></ruby>。かわぐち。",
+          "hyouki": [
+            "河口"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。",
+          "hyouki": [
+            "雄"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>南</rb><rt>みなみ</rt></ruby>のはし。",
+          "hyouki": [
+            "南極"
+          ]
+        },
+        {
+          "def": "<ruby><rb>南極大陸</rb><rt>なんきょくたいりく</rt></ruby>。",
+          "hyouki": [
+            "南極"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "DNA"
+          ]
+        }
+      ]
+    }
+  }
+}

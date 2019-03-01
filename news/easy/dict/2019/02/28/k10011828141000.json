@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つちがうこと。それぞれ。",
+          "hyouki": [
+            "別別"
+          ]
+        },
+        {
+          "def": "<ruby><rb>別</rb><rt>わか</rt></ruby>れ<ruby><rb>別</rb><rt>わか</rt></ruby>れ。",
+          "hyouki": [
+            "別別"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>をかなでること。",
+          "hyouki": [
+            "演奏"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "映像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。",
+          "hyouki": [
+            "映像"
+          ]
+        }
+      ]
+    }
+  }
+}

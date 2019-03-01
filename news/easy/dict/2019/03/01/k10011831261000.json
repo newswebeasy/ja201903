@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>署名</rb><rt>しょめい</rt></ruby>。",
+          "hyouki": [
+            "サイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>合図</rb><rt>あいず</rt></ruby>。しるし。",
+          "hyouki": [
+            "サイン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いことをしたり、<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>守</rb><rt>まも</rt></ruby>らなかったりした<ruby><rb>人</rb><rt>ひと</rt></ruby>を、こらしめること。",
+          "hyouki": [
+            "制裁"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>外務大臣</rb><rt>がいむだいじん</rt></ruby>の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "外相"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "国民"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ]
+    }
+  }
+}

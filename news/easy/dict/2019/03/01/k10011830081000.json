@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>手間</rb><rt>てま</rt></ruby>がかからないで、すぐできること。<ruby><rb>即席</rb><rt>そくせき</rt></ruby>。",
+          "hyouki": [
+            "インスタント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。",
+          "hyouki": [
+            "ラーメン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ]
+    }
+  }
+}
