@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などをより<ruby><rb>合</rb><rt>あ</rt></ruby>わせた<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。",
+          "hyouki": [
+            "ケーブル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>何本</rb><rt>なんぼん</rt></ruby>もの<ruby><rb>電線</rb><rt>でんせん</rt></ruby>を<ruby><rb>束</rb><rt>たば</rt></ruby>ねて<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>にした<ruby><rb>線</rb><rt>せん</rt></ruby>。",
+          "hyouki": [
+            "ケーブル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>や、<ruby><rb>熱</rb><rt>あつ</rt></ruby>いお<ruby><rb>湯</rb><rt>ゆ</rt></ruby>などにふれて、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がただれること。",
+          "hyouki": [
+            "火傷"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>にふくまれている<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。みずけ。",
+          "hyouki": [
+            "水分"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>くさわる。",
+          "hyouki": [
+            "触れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "触れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げて<ruby><rb>述</rb><rt>の</rt></ruby>べる。",
+          "hyouki": [
+            "触れる"
+          ]
+        },
+        {
+          "def": "ものごとに<ruby><rb>出会</rb><rt>であ</rt></ruby>う。",
+          "hyouki": [
+            "触れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>逆</rb><rt>さか</rt></ruby>らう。そむく。",
+          "hyouki": [
+            "触れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせる。",
+          "hyouki": [
+            "触れる"
+          ]
+        }
+      ]
+    }
+  }
+}
