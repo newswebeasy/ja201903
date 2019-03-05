@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011834871000",
+  "news_prearranged_time": "2019-03-05 11:30:00",
+  "title": "子どもがインターネットを使う時間は１日に３時間ぐらい",
+  "title_with_ruby": "<ruby>子<rt>こ</rt></ruby>どもがインターネットを<ruby>使<rt>つか</rt></ruby>う<ruby>時間<rt>じかん</rt></ruby>は１<ruby>日<rt>にち</rt></ruby>に３<ruby>時間<rt>じかん</rt></ruby>ぐらい",
+  "outline_with_ruby": "<p><ruby>内閣府<rt>ないかくふ</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、１０<ruby>歳<rt>さい</rt></ruby>から１７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもにインターネットについての<a href='javascript:void(0)' class='dicWin' id='id-0000'>アンケート</a>を<ruby>行<rt>おこな</rt></ruby>っています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190304/../20190304/K10011834871_1903032249_1903040501_01_02.jpg",
+  "news_web_movie_uri": "k10011834871_201903040520_201903040522.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011834871000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011834871000/k10011834871000.html"
+}

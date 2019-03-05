@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011835811000",
+  "news_prearranged_time": "2019-03-05 16:20:00",
+  "title": "認知症のお年寄りがレストランで働く",
+  "title_with_ruby": "<ruby>認知症<rt>にんちしょう</rt></ruby>のお<ruby>年寄<rt>としよ</rt></ruby>りがレストランで<ruby>働<rt>はたら</rt></ruby>く",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></a>の<ruby>中<rt>なか</rt></ruby>にあるレストランで<ruby>４日<rt>よっか</rt></ruby>と<ruby>５日<rt>いつか</rt></ruby>、<ruby>認知症<rt>にんちしょう</rt></ruby>のお<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>年寄<rt>としよ</rt></ruby>り</a>が<ruby>働<rt>はたら</rt></ruby>く<a href='javascript:void(0)' class='dicWin' id='id-0002'>イベント</a>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190305/../20190305/K10011835811_1903042149_1903050412_01_02.jpg",
+  "news_web_movie_uri": "k10011835811_201903050442_201903050442.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011835811000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011835811000/k10011835811000.html"
+}

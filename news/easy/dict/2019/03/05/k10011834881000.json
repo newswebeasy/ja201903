@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。",
+          "hyouki": [
+            "天然記念物"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "環境省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>本州中部</rb><rt>ほんしゅうちゅうぶ</rt></ruby>、<ruby><rb>日本</rb><rt>にほん</rt></ruby>アルプスなどの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>にすむ<ruby><rb>鳥</rb><rt>とり</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>は<ruby><rb>羽</rb><rt>はね</rt></ruby>が<ruby><rb>黒</rb><rt>くろ</rt></ruby>と<ruby><rb>茶</rb><rt>ちゃ</rt></ruby>のまだら<ruby><rb>模様</rb><rt>もよう</rt></ruby>、<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>は<ruby><rb>雪</rb><rt>ゆき</rt></ruby>のように<ruby><rb>白</rb><rt>しろ</rt></ruby>くなる。<ruby><rb>特別天然記念物</rb><rt>とくべつてんねんきねんぶつ</rt></ruby>。",
+          "hyouki": [
+            "雷鳥"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>やウサギを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "羽"
+          ]
+        }
+      ]
+    }
+  }
+}
