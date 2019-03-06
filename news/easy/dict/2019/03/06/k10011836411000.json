@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。",
+          "hyouki": [
+            "飼う"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。",
+          "hyouki": [
+            "マンション"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。",
+          "hyouki": [
+            "飼う"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>指</rb><rt>ゆび</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>にあり、<ruby><rb>皮</rb><rt>かわ</rt></ruby>がかたく<ruby><rb>変</rb><rt>か</rt></ruby>わったもの。",
+          "hyouki": [
+            "爪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>琴</rb><rt>こと</rt></ruby>などをひくときに、<ruby><rb>指先</rb><rt>ゆびさき</rt></ruby>にはめるもの。",
+          "hyouki": [
+            "爪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>っかけてとめるための、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなもの。",
+          "hyouki": [
+            "爪"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "けがをする。",
+          "hyouki": [
+            "傷つく"
+          ]
+        },
+        {
+          "def": "こわれる。いたむ。",
+          "hyouki": [
+            "傷つく"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のめいよや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちがそこなわれる。",
+          "hyouki": [
+            "傷つく"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ]
+    }
+  }
+}

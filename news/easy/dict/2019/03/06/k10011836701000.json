@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。",
+          "hyouki": [
+            "訓練"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "のばしたものが、つく。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "届く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。",
+          "hyouki": [
+            "届く"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>版</rb><rt>はん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>印刷機</rb><rt>いんさつき</rt></ruby>でインクをつけて<ruby><rb>同</rb><rt>おな</rt></ruby>じものをたくさん<ruby><rb>刷</rb><rt>す</rt></ruby>ること。",
+          "hyouki": [
+            "印刷"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ホテルや<ruby><rb>空港</rb><rt>くうこう</rt></ruby>などで、<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>に<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>部屋</rb><rt>へや</rt></ruby>。<ruby><rb>一般</rb><rt>いっぱん</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>待</rb><rt>ま</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせや<ruby><rb>休息</rb><rt>きゅうそく</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "ロビー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>や<ruby><rb>知識</rb><rt>ちしき</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>めるために、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>実習</rb><rt>じっしゅう</rt></ruby>をすること。",
+          "hyouki": [
+            "研修"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ]
+    }
+  }
+}
