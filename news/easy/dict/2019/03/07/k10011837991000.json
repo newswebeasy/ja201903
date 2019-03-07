@@ -1,0 +1,252 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>によって<ruby><rb>人</rb><rt>ひと</rt></ruby>をとらえておくこと。",
+          "hyouki": [
+            "拘置"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ところ。",
+          "hyouki": [
+            "所"
+          ]
+        },
+        {
+          "def": "こと。もの。",
+          "hyouki": [
+            "所"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。",
+          "hyouki": [
+            "不正"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や、<ruby><rb>人</rb><rt>ひと</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならないことに、そむいた<ruby><rb>行</rb><rt>おこな</rt></ruby>い。<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>。",
+          "hyouki": [
+            "罪"
+          ]
+        },
+        {
+          "def": "ばつ。",
+          "hyouki": [
+            "罪"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いやりがなく、<ruby><rb>意地悪</rb><rt>いじわる</rt></ruby>なようす。",
+          "hyouki": [
+            "罪"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>最高</rb><rt>さいこう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>高等</rb><rt>こうとう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>地方裁判所</rb><rt>ちほうさいばんしょ</rt></ruby>・<ruby><rb>家庭</rb><rt>かてい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>簡易</rb><rt>かんい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>がある。",
+          "hyouki": [
+            "裁判所"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "お<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>仮面</rb><rt>かめん</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "ほこりなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>口</rb><rt>くち</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>をおおう<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "ガスなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>消防士</rb><rt>しょうぼうし</rt></ruby>などが<ruby><rb>顔</rb><rt>かお</rt></ruby>につけるお<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>防毒面</rb><rt>ぼうどくめん</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、キャッチャーや<ruby><rb>球審</rb><rt>きゅうしん</rt></ruby>がかぶるもの。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>。<ruby><rb>顔</rb><rt>かお</rt></ruby>だち。",
+          "hyouki": [
+            "マスク"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>つために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なことがら。",
+          "hyouki": [
+            "条件"
+          ]
+        },
+        {
+          "def": "あることを<ruby><rb>決</rb><rt>き</rt></ruby>めるのに、<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しておくことがら。",
+          "hyouki": [
+            "条件"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ]
+    }
+  }
+}

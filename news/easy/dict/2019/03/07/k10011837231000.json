@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        },
+        {
+          "def": "<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。",
+          "hyouki": [
+            "化粧"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などで<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶこと。",
+          "hyouki": [
+            "航空"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などで<ruby><rb>決</rb><rt>き</rt></ruby>められている、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>服装</rb><rt>ふくそう</rt></ruby>。ユニフォーム。",
+          "hyouki": [
+            "制服"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ようすや<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>変</rb><rt>か</rt></ruby>わること。",
+          "hyouki": [
+            "変化"
+          ]
+        }
+      ]
+    }
+  }
+}

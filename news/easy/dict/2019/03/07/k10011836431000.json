@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "肌"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。",
+          "hyouki": [
+            "傷"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "１チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "ラグビー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ]
+    }
+  }
+}
