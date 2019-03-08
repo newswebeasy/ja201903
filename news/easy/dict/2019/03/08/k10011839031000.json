@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。",
+          "hyouki": [
+            "秋刀魚"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        },
+        {
+          "def": "とることができる。",
+          "hyouki": [
+            "捕れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "かさ。ますめ。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "ものをはかる。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。",
+          "hyouki": [
+            "量"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ]
+    }
+  }
+}

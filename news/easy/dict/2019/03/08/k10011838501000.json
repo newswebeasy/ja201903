@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "「<ruby><rb>原子力発電所</rb><rt>げんしりょくはつでんしょ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "原発"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ウランやラジウムなどの<ruby><rb>放射性</rb><rt>ほうしゃせい</rt></ruby><ruby><rb>元素</rb><rt>げんそ</rt></ruby>がこわれて、ほかの<ruby><rb>元素</rb><rt>げんそ</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>わるときに<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>大量</rb><rt>たいりょう</rt></ruby>に<ruby><rb>浴</rb><rt>あ</rt></ruby>びると<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>である。",
+          "hyouki": [
+            "放射線"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "作業"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        },
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "環境省"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>や<ruby><rb>大会</rb><rt>たいかい</rt></ruby>で、いちばんすぐれた<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>やチームにあたえられる<ruby><rb>資格</rb><rt>しかく</rt></ruby>や<ruby><rb>地位</rb><rt>ちい</rt></ruby>。また、その<ruby><rb>試合</rb><rt>しあい</rt></ruby>や<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。",
+          "hyouki": [
+            "選手権"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとの<ruby><rb>位</rb><rt>くらい</rt></ruby>・<ruby><rb>段階</rb><rt>だんかい</rt></ruby>・<ruby><rb>程度</rb><rt>ていど</rt></ruby>。",
+          "hyouki": [
+            "級"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>学年</rb><rt>がくねん</rt></ruby>の<ruby><rb>者</rb><rt>もの</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>組</rb><rt>くみ</rt></ruby>。クラス。",
+          "hyouki": [
+            "級"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。",
+          "hyouki": [
+            "年齢"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。",
+          "hyouki": [
+            "優勝"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ]
+    }
+  }
+}

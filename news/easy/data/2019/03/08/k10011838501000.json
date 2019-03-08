@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011838501000",
+  "news_prearranged_time": "2019-03-08 11:30:00",
+  "title": "福島県　原発の事故で汚れた土が今も家の近くに置いたまま",
+  "title_with_ruby": "<ruby>福島県<rt>ふくしまけん</rt></ruby>　<ruby>原発<rt>げんぱつ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>汚<rt>よご</rt></ruby>れた<ruby>土<rt>つち</rt></ruby>が<ruby>今<rt>いま</rt></ruby>も<ruby>家<rt>いえ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>置<rt>お</rt></ruby>いたまま",
+  "outline_with_ruby": "<p>８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>東京電力<rt>とうきょうでんりょく</rt></ruby><ruby>福島第一原発<rt>ふくしまだいいちげんぱつ</rt></ruby>で<ruby>事故<rt>じこ</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190307/../20190307/K10011838501_1903070040_1903070052_01_02.jpg",
+  "news_web_movie_uri": "k10011838501_201903070516_201903070517.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011838501000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011838501000/k10011838501000.html"
+}
