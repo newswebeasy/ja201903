@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "鯨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>割</rb><rt>わ</rt></ruby>れたところ。さけ<ruby><rb>目</rb><rt>め</rt></ruby>。ひび。",
+          "hyouki": [
+            "割れ目"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>乗組員</rb><rt>のりくみいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>で、<ruby><rb>航海</rb><rt>こうかい</rt></ruby>の<ruby><rb>指図</rb><rt>さしず</rt></ruby>をして<ruby><rb>船</rb><rt>ふね</rt></ruby><ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>責任</rb><rt>せきにん</rt></ruby>をもつ<ruby><rb>人</rb><rt>ひと</rt></ruby>。キャプテン。",
+          "hyouki": [
+            "船長"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。",
+          "hyouki": [
+            "時速"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>るために、<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりすること。また、その<ruby><rb>空気</rb><rt>くうき</rt></ruby>。",
+          "hyouki": [
+            "息"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "「わび」のていねいな<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>方</rb><rt>かた</rt></ruby>。あやまること。また、そのことば。",
+          "hyouki": [
+            "おわび"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>経済</rb><rt>けいざい</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などが<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んでいる<ruby><rb>国</rb><rt>くに</rt></ruby>。",
+          "hyouki": [
+            "先進国"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などで、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>についている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>幹部</rb><rt>かんぶ</rt></ruby>。<ruby><rb>重役</rb><rt>じゅうやく</rt></ruby>。",
+          "hyouki": [
+            "役員"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "役員"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "すべて<ruby><rb>同</rb><rt>おな</rt></ruby>じであること。<ruby><rb>差別</rb><rt>さべつ</rt></ruby>のないこと。<ruby><rb>公平</rb><rt>こうへい</rt></ruby>。",
+          "hyouki": [
+            "平等"
+          ]
+        }
+      ]
+    }
+  }
+}

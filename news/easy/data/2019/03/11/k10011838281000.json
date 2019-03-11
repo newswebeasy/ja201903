@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011838281000",
+  "news_prearranged_time": "2019-03-11 11:30:00",
+  "title": "赤ちゃん用の液体ミルク　日本でも売り始める",
+  "title_with_ruby": "<ruby>赤<rt>あか</rt></ruby>ちゃん<ruby>用<rt>よう</rt></ruby>の<ruby>液体<rt>えきたい</rt></ruby>ミルク　<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める",
+  "outline_with_ruby": "<p><ruby>赤<rt>あか</rt></ruby>ちゃん<ruby>用<rt>よう</rt></ruby>の「<ruby>液体<rt>えきたい</rt></ruby>ミルク」は、<ruby>外国<rt>がいこく</rt></ruby>ではたくさん<ruby>売<rt>う</rt></ruby>っていますが、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>売<rt>う</rt></ruby>っていませんでした。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190307/../20190307/K10011838281_1903062205_1903070410_01_02.jpg",
+  "news_web_movie_uri": "k10011838281_201903070810_201903070837.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011838281000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011838281000/k10011838281000.html"
+}

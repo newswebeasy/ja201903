@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        },
+        {
+          "def": "<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "パック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "缶"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>をくさらせたり<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになったりする。バクテリア。",
+          "hyouki": [
+            "菌"
+          ]
+        },
+        {
+          "def": "カビやキノコなどの<ruby><rb>胞子植物</rb><rt>ほうししょくぶつ</rt></ruby>。また、キノコの<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "菌"
+          ]
+        }
+      ]
+    }
+  }
+}
