@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>や<ruby><rb>調査</rb><rt>ちょうさ</rt></ruby>のもととして<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。",
+          "hyouki": [
+            "資料"
+          ]
+        }
+      ]
+    }
+  }
+}

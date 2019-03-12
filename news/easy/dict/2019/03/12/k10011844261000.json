@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>による<ruby><rb>災害</rb><rt>さいがい</rt></ruby>。",
+          "hyouki": [
+            "震災"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。",
+          "hyouki": [
+            "看板"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "看板"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ボランティア"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>やゴムのふくろの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れてふくらませ<ruby><rb>飛</rb><rt>と</rt></ruby>ばして<ruby><rb>遊</rb><rt>あそ</rt></ruby>ぶおもちゃ。",
+          "hyouki": [
+            "風船"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>らせる。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>言</rb><rt>い</rt></ruby>いふらす。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。",
+          "hyouki": [
+            "飛ばす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>や、<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>などでわくを<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>明</rb><rt>あ</rt></ruby>かりをともすようにして、<ruby><rb>庭</rb><rt>にわ</rt></ruby>などに<ruby><rb>置</rb><rt>お</rt></ruby>くもの。",
+          "hyouki": [
+            "灯籠"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>やこよりをしんにして、その<ruby><rb>周</rb><rt>まわ</rt></ruby>りをろうで<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。しんに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけて<ruby><rb>明</rb><rt>あ</rt></ruby>かりにする。",
+          "hyouki": [
+            "ろうそく"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ]
+    }
+  }
+}

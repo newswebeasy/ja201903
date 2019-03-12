@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>質問</rb><rt>しつもん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>答</rb><rt>こた</rt></ruby>えさせる<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "クイズ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ]
+    }
+  }
+}

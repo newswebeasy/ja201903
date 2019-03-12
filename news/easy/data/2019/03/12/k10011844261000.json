@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011844261000",
+  "news_prearranged_time": "2019-03-12 16:20:00",
+  "title": "「がんばろう！石巻」　震災で亡くなった人のために祈る",
+  "title_with_ruby": "「がんばろう！<ruby>石巻<rt>いしのまき</rt></ruby>」　<ruby>震災<rt>しんさい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る",
+  "outline_with_ruby": "<p><ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>石巻<rt>いしのまき</rt></ruby><ruby>市<rt>し</rt></ruby>で、８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る<ruby>会<rt>かい</rt></ruby>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190311/../20190311/K10011844261_1903111837_1903111847_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011844261000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011844261000/k10011844261000.html"
+}

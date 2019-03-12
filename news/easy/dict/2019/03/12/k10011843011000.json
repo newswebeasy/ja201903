@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "スキー"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。",
+          "hyouki": [
+            "スキー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。",
+          "hyouki": [
+            "ジャンプ"
+          ]
+        },
+        {
+          "def": "スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。",
+          "hyouki": [
+            "ジャンプ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。",
+          "hyouki": [
+            "優勝"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>結果</rb><rt>けっか</rt></ruby>。できばえ。",
+          "hyouki": [
+            "成績"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>での<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>のできぐあい。",
+          "hyouki": [
+            "成績"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "男子"
+          ]
+        },
+        {
+          "def": "おとこ。",
+          "hyouki": [
+            "男子"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。",
+          "hyouki": [
+            "出身"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。",
+          "hyouki": [
+            "出身"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。",
+          "hyouki": [
+            "感謝"
+          ]
+        }
+      ]
+    }
+  }
+}
