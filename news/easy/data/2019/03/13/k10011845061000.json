@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011845061000",
+  "news_prearranged_time": "2019-03-13 11:30:00",
+  "title": "東京オリンピックまで５００日　競技のピクトグラムを発表",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックまで５００<ruby>日<rt>にち</rt></ruby>　<ruby>競技<rt>きょうぎ</rt></ruby>のピクトグラムを<ruby>発表<rt>はっぴょう</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>開会<rt>かいかい</rt></ruby></a><ruby>式<rt>しき</rt></ruby>まであと５００<ruby>日<rt>にち</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190312/../20190312/K10011845061_1903121235_1903121242_01_03.jpg",
+  "news_web_movie_uri": "k10011845061_201903121212_201903121216.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011845061000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011845061000/k10011845061000.html"
+}

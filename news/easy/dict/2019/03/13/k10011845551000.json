@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いちばん<ruby><rb>軽</rb><rt>かる</rt></ruby>くて、<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい。",
+          "hyouki": [
+            "水素"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        }
+      ]
+    }
+  }
+}

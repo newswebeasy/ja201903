@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>陸</rb><rt>りく</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>哺乳動物</rb><rt>ほにゅうどうぶつ</rt></ruby>。アフリカゾウとインドゾウとがいる。<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>鼻</rb><rt>はな</rt></ruby>と<ruby><rb>大</rb><rt>おお</rt></ruby>きなきばを<ruby><rb>持</rb><rt>も</rt></ruby>つ。",
+          "hyouki": [
+            "象"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。",
+          "hyouki": [
+            "雌"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>広</rb><rt>ひろ</rt></ruby>げる。",
+          "hyouki": [
+            "敷く"
+          ]
+        },
+        {
+          "def": "ものの<ruby><rb>下</rb><rt>した</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。<ruby><rb>敷物</rb><rt>しきもの</rt></ruby>にする。",
+          "hyouki": [
+            "敷く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>備</rb><rt>そな</rt></ruby>えつける。",
+          "hyouki": [
+            "敷く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。",
+          "hyouki": [
+            "敷く"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ]
+    }
+  }
+}
