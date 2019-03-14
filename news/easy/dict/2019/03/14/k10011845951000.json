@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。",
+          "hyouki": [
+            "残業"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。",
+          "hyouki": [
+            "平均"
+          ]
+        },
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。",
+          "hyouki": [
+            "平均"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>すること。また、<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>したもの。",
+          "hyouki": [
+            "プリント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>模様</rb><rt>もよう</rt></ruby>を<ruby><rb>染</rb><rt>そ</rt></ruby>めること。また、その<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "プリント"
+          ]
+        },
+        {
+          "def": "とった<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>を、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>焼</rb><rt>や</rt></ruby>きつけること。また、そのもの。",
+          "hyouki": [
+            "プリント"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。",
+          "hyouki": [
+            "まとめる"
+          ]
+        }
+      ]
+    }
+  }
+}

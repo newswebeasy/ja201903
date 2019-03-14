@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011845951000",
+  "news_prearranged_time": "2019-03-14 11:30:00",
+  "title": "先生の仕事を減らすため家庭との連絡にＩＴの技術を使う",
+  "title_with_ruby": "<ruby>先生<rt>せんせい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすため<ruby>家庭<rt>かてい</rt></ruby>との<ruby>連絡<rt>れんらく</rt></ruby>にＩＴの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う",
+  "outline_with_ruby": "<p><ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の６０％は１か<ruby>月<rt>げつ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>残業<rt>ざんぎょう</rt></ruby></a><ruby>時間<rt>じかん</rt></ruby>が８０<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりそうだと<ruby>言<rt>い</rt></ruby>われています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190313/../20190313/K10011845951_1903122256_1903130508_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011845951000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011845951000/k10011845951000.html"
+}
