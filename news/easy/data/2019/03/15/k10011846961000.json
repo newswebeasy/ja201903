@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011846961000",
+  "news_prearranged_time": "2019-03-15 11:30:00",
+  "title": "ロボットがコンビニの品物を客に届ける実験",
+  "title_with_ruby": "ロボットがコンビニの<ruby>品物<rt>しなもの</rt></ruby>を<ruby>客<rt>きゃく</rt></ruby>に<ruby>届<rt>とど</rt></ruby>ける<ruby>実験<rt>じっけん</rt></ruby>",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'>コンビニ</a>の<ruby>品物<rt>しなもの</rt></ruby>を<ruby>客<rt>きゃく</rt></ruby>に<ruby>届<rt>とど</rt></ruby>ける<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>実験<rt>じっけん</rt></ruby></a>が、<ruby>神奈川県<rt>かながわけん</rt></ruby>にある<ruby>大学<rt>だいがく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190313/../20190313/K10011846961_1903131731_1903131735_01_02.jpg",
+  "news_web_movie_uri": "k10011846961_201903131759_201903131807.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011846961000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011846961000/k10011846961000.html"
+}
