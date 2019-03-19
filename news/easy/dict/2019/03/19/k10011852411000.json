@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>となるもの。<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "食品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "遺伝子"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ]
+    }
+  }
+}

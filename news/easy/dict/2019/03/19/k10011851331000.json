@@ -1,0 +1,84 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国民</rb><rt>こくみん</rt></ruby>であるという<ruby><rb>身分</rb><rt>みぶん</rt></ruby>・<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "国籍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>がその<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>属</rb><rt>ぞく</rt></ruby>していること。",
+          "hyouki": [
+            "国籍"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。",
+          "hyouki": [
+            "文部科学省"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>をそえて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。",
+          "hyouki": [
+            "支援"
+          ]
+        }
+      ]
+    }
+  }
+}

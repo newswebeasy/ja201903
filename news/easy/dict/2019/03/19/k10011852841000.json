@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。",
+          "hyouki": [
+            "天然記念物"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。",
+          "hyouki": [
+            "傷"
+          ]
+        }
+      ]
+    }
+  }
+}
