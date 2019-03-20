@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げている<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つのもとになる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "成分"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "プリズムで<ruby><rb>日光</rb><rt>にっこう</rt></ruby>を<ruby><rb>分</rb><rt>わ</rt></ruby>けたとき、<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない<ruby><rb>光線</rb><rt>こうせん</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>温</rb><rt>あたた</rt></ruby>めるので<ruby><rb>熱線</rb><rt>ねっせん</rt></ruby>ともいう。<ruby><rb>医療</rb><rt>いりょう</rt></ruby>・<ruby><rb>通信</rb><rt>つうしん</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "赤外線"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>。<ruby><rb>表</rb><rt>おもて</rt></ruby>。",
+          "hyouki": [
+            "表面"
+          ]
+        },
+        {
+          "def": "うわべ。<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "表面"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>きているもの。<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>のこと。",
+          "hyouki": [
+            "生き物"
+          ]
+        }
+      ]
+    }
+  }
+}
