@@ -1,0 +1,130 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>気味</rb><rt>きみ</rt></ruby>が<ruby><rb>悪</rb><rt>わる</rt></ruby>い。へんなようすだ。",
+          "hyouki": [
+            "怪しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>疑</rb><rt>うたが</rt></ruby>わしい。<ruby><rb>信用</rb><rt>しんよう</rt></ruby>できない。",
+          "hyouki": [
+            "怪しい"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "うそをほんとうと<ruby><rb>思</rb><rt>おも</rt></ruby>わせる。",
+          "hyouki": [
+            "だます"
+          ]
+        },
+        {
+          "def": "きげんをとってなだめる。",
+          "hyouki": [
+            "だます"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>をためること。また、ためたお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "貯金"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>市庁</rb><rt>しちょう</rt></ruby>。",
+          "hyouki": [
+            "市役所"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "職員"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などでお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れのために<ruby><rb>設</rb><rt>もう</rt></ruby>けられた、もとになる<ruby><rb>帳簿</rb><rt>ちょうぼ</rt></ruby>。",
+          "hyouki": [
+            "口座"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "レコードやテープなどに<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>収</rb><rt>おさ</rt></ruby>めること。また、その<ruby><rb>音</rb><rt>おと</rt></ruby>。",
+          "hyouki": [
+            "録音"
+          ]
+        }
+      ]
+    }
+  }
+}

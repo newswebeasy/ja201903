@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011856321000",
+  "news_prearranged_time": "2019-03-22 16:25:00",
+  "title": "セブン－イレブン　店の営業時間を短くする実験を始める",
+  "title_with_ruby": "セブン－イレブン　<ruby>店<rt>みせ</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>くする<ruby>実験<rt>じっけん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'>コンビニ</a>のセブン－イレブンは、１<ruby>日<rt>にち</rt></ruby>に２４<ruby>時間<rt>じかん</rt></ruby><ruby>店<rt>みせ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>営業<rt>えいぎょう</rt></ruby></a>しています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190322/../20190322/K10011856321_1903220348_1903220425_01_02.jpg",
+  "news_web_movie_uri": "k10011856321_201903220722_201903220723.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011856321000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011856321000/k10011856321000.html"
+}

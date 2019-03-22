@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011853671000",
+  "news_prearranged_time": "2019-03-22 11:30:00",
+  "title": "先月日本へ旅行に来た外国人　２月でいちばん多い",
+  "title_with_ruby": "<ruby>先月<rt>せんげつ</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　２<ruby>月<rt>がつ</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>い",
+  "outline_with_ruby": "<p><ruby>今年<rt>ことし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は２６０<ruby>万<rt>まん</rt></ruby>４３００<ruby>人<rt>にん</rt></ruby>でした。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190319/../20190319/K10011853671_1903191749_1903191759_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011853671000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011853671000/k10011853671000.html"
+}

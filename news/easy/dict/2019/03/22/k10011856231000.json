@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。",
+          "hyouki": [
+            "野球"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "これまでの<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などをやめて、<ruby><rb>退</rb><rt>しりぞ</rt></ruby>くこと。",
+          "hyouki": [
+            "引退"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>結果</rb><rt>けっか</rt></ruby>。できばえ。",
+          "hyouki": [
+            "成績"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>での<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>のできぐあい。",
+          "hyouki": [
+            "成績"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>打</rb><rt>う</rt></ruby>った<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>外野</rb><rt>がいや</rt></ruby>のスタンドに<ruby><rb>入</rb><rt>はい</rt></ruby>ったりして、<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>が<ruby><rb>一気</rb><rt>いっき</rt></ruby>に<ruby><rb>本塁</rb><rt>ほんるい</rt></ruby>まで<ruby><rb>帰</rb><rt>かえ</rt></ruby>ることのできるヒット。ホーマー。<ruby><rb>本塁打</rb><rt>ほんるいだ</rt></ruby>。",
+          "hyouki": [
+            "ホームラン"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>安打</rb><rt>あんだ</rt></ruby>。",
+          "hyouki": [
+            "ヒット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大当</rb><rt>おおあ</rt></ruby>たり。",
+          "hyouki": [
+            "ヒット"
+          ]
+        }
+      ]
+    }
+  }
+}
