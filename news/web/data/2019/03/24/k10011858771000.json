@@ -25,8 +25,20 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
-  "word": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/special/international-news/breakfast/",
+      "title": "朝食前のあなたに…ちょっと気になる国際ニュース",
+      "time": "",
+      "datetime": ""
+    }
+  ],
+  "word": [
+    {
+      "link": "word/0000564.html",
+      "title": "国際５"
+    }
+  ],
   "news_id": "k10011858771000",
   "yyyy": "2019",
   "mm": "03",
