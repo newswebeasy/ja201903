@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011860241000",
+  "news_prearranged_time": "2019-03-26 15:55:00",
+  "title": "東京パラリンピック　聖火リレーに使うトーチができる",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>パラリンピック　<ruby>聖火<rt>せいか</rt></ruby>リレーに<ruby>使<rt>つか</rt></ruby>うトーチができる",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>聖火<rt>せいか</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'>リレー</a>に<ruby>使<rt>つか</rt></ruby>うトーチができました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190325/../20190325/K10011860241_1903251754_1903251755_01_02.jpg",
+  "news_web_movie_uri": "k10011860241_201903251809_201903251810.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011860241000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011860241000/k10011860241000.html"
+}
