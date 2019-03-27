@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>耳</rb><rt>みみ</rt></ruby>や<ruby><rb>口</rb><rt>くち</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>目</rb><rt>め</rt></ruby>で<ruby><rb>見</rb><rt>み</rt></ruby>てわかるように、<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>形</rb><rt>かたち</rt></ruby>やその<ruby><rb>動</rb><rt>うご</rt></ruby>かし<ruby><rb>方</rb><rt>かた</rt></ruby>で<ruby><rb>話</rb><rt>はなし</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>え<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "手話"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>のときに<ruby><rb>感</rb><rt>かん</rt></ruby>じるゆれの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。<ruby><rb>計測地震計</rb><rt>けいそくじしんけい</rt></ruby>によって<ruby><rb>測</rb><rt>はか</rt></ruby>られ、<ruby><rb>次</rb><rt>つぎ</rt></ruby>の１０<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けられている。",
+          "hyouki": [
+            "震度"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "よわい。",
+          "hyouki": [
+            "弱"
+          ]
+        },
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>が<ruby><rb>若</rb><rt>わか</rt></ruby>い。",
+          "hyouki": [
+            "弱"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>より<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>足</rb><rt>た</rt></ruby>りないことを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "弱"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。",
+          "hyouki": [
+            "大雨"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危険</rb><rt>きけん</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなときに、<ruby><rb>警戒</rb><rt>けいかい</rt></ruby>のために<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "警報"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "火山"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ]
+    }
+  }
+}

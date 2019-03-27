@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>縦横</rb><rt>たてよこ</rt></ruby>に一九<ruby><rb>本</rb><rt>ほん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>盤</rb><rt>ばん</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>の<ruby><rb>石</rb><rt>いし</rt></ruby>を<ruby><rb>二人</rb><rt>ふたり</rt></ruby>で<ruby><rb>代</rb><rt>か</rt></ruby>わる<ruby><rb>代</rb><rt>が</rt></ruby>わるに<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>（<ruby><rb>地</rb><rt>じ</rt></ruby>）を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>うゲーム。<ruby><rb>囲碁</rb><rt>いご</rt></ruby>。",
+          "hyouki": [
+            "碁"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとの<ruby><rb>正</rb><rt>ただ</rt></ruby>しさや、<ruby><rb>真実</rb><rt>しんじつ</rt></ruby>などをはっきり<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。",
+          "hyouki": [
+            "証明"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>免許</rb><rt>めんきょ</rt></ruby>の<ruby><rb>証明書</rb><rt>しょうめいしょ</rt></ruby>。",
+          "hyouki": [
+            "免状"
+          ]
+        },
+        {
+          "def": "<ruby><rb>卒業証書</rb><rt>そつぎょうしょうしょ</rt></ruby>。",
+          "hyouki": [
+            "免状"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>の<ruby><rb>仕組</rb><rt>しく</rt></ruby>みや<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "制度"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "小学生"
+          ]
+        }
+      ]
+    }
+  }
+}

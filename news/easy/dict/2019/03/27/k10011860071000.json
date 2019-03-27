@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。",
+          "hyouki": [
+            "線路"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>地下</rb><rt>ちか</rt></ruby>や<ruby><rb>海底</rb><rt>かいてい</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>などが<ruby><rb>通</rb><rt>とお</rt></ruby>れるようにしたもの。",
+          "hyouki": [
+            "トンネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>野手</rb><rt>やしゅ</rt></ruby>がゴロを<ruby><rb>取</rb><rt>と</rt></ruby>りそこなって、またの<ruby><rb>間</rb><rt>あいだ</rt></ruby>から<ruby><rb>後</rb><rt>うし</rt></ruby>ろにのがすこと。",
+          "hyouki": [
+            "トンネル"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        }
+      ]
+    }
+  }
+}

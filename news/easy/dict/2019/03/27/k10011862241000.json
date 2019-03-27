@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>など、<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>として<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>美術作品</rb><rt>びじゅつさくひん</rt></ruby>。",
+          "hyouki": [
+            "美術品"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011860021000",
+  "news_prearranged_time": "2019-03-27 11:30:00",
+  "title": "気象庁　大きな地震や台風のときは手話でも情報を伝える",
+  "title_with_ruby": "<ruby>気象庁<rt>きしょうちょう</rt></ruby>　<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>や<ruby>台風<rt>たいふう</rt></ruby>のときは<ruby>手話<rt>しゅわ</rt></ruby>でも<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える",
+  "outline_with_ruby": "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>災害<rt>さいがい</rt></ruby></a>があったときなどに、<ruby>急<rt>いそ</rt></ruby>いで<ruby>伝<rt>つた</rt></ruby>えたい<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>情報<rt>じょうほう</rt></ruby></a>をテレビや<ruby>新聞<rt>しんぶん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>記者<rt>きしゃ</rt></ruby></a>たちに<ruby>説明<rt>せつめい</rt></ruby>しています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20190325/../20190325/K10011860021_1903251614_1903251616_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011860021000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011860021000/k10011860021000.html"
+}
