@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１９８９<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>１月８日</rb><rt>いちがつようか</rt></ruby>からあとの、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>年号</rb><rt>ねんごう</rt></ruby>。",
+          "hyouki": [
+            "平成"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られたお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>金貨</rb><rt>きんか</rt></ruby>・<ruby><rb>銀貨</rb><rt>ぎんか</rt></ruby>・<ruby><rb>銅貨</rb><rt>どうか</rt></ruby>など。",
+          "hyouki": [
+            "硬貨"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ひとそろい。",
+          "hyouki": [
+            "セット"
+          ]
+        },
+        {
+          "def": "テニス・バレーボール・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などの<ruby><rb>一回</rb><rt>いっかい</rt></ruby>の<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。",
+          "hyouki": [
+            "セット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "セット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>髪</rb><rt>かみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。",
+          "hyouki": [
+            "セット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>が、ある<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くように<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。",
+          "hyouki": [
+            "セット"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。",
+          "hyouki": [
+            "注文"
+          ]
+        },
+        {
+          "def": "<ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "注文"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>昭和天皇</rb><rt>しょうわてんのう</rt></ruby>が<ruby><rb>位</rb><rt>くらい</rt></ruby>についていた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。１９２６<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>１２月</rb><rt>じゅうにがつ</rt></ruby>から１９８９<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>１月</rb><rt>いちがつ</rt></ruby>まで。",
+          "hyouki": [
+            "昭和時代"
+          ]
+        }
+      ]
+    }
+  }
+}

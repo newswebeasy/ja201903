@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>するために、<ruby><rb>教材</rb><rt>きょうざい</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "教科書"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>生</rb><rt>う</rt></ruby>まれつき。",
+          "hyouki": [
+            "性"
+          ]
+        },
+        {
+          "def": "<ruby><rb>男女</rb><rt>だんじょ</rt></ruby>の<ruby><rb>区別</rb><rt>くべつ</rt></ruby>。",
+          "hyouki": [
+            "性"
+          ]
+        },
+        {
+          "def": "…の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ、という<ruby><rb>意味</rb><rt>いみ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "性"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>苦</rb><rt>くる</rt></ruby>しみ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>ごと。",
+          "hyouki": [
+            "悩み"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>する。",
+          "hyouki": [
+            "悩む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどで<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。",
+          "hyouki": [
+            "悩む"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>、またはその<ruby><rb>物</rb><rt>もの</rt></ruby>だけが<ruby><rb>持</rb><rt>も</rt></ruby>っている、ほかとはちがう<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。",
+          "hyouki": [
+            "個性"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一足</rb><rt>ひとあし</rt></ruby>。",
+          "hyouki": [
+            "一歩"
+          ]
+        },
+        {
+          "def": "ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。",
+          "hyouki": [
+            "一歩"
+          ]
+        }
+      ]
+    }
+  }
+}
