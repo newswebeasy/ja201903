@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>。",
+          "hyouki": [
+            "女優"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。",
+          "hyouki": [
+            "合格"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。",
+          "hyouki": [
+            "合格"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>西洋</rb><rt>せいよう</rt></ruby>のおどり。<ruby><rb>歌</rb><rt>うた</rt></ruby>やことばを<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>身</rb><rt>み</rt></ruby>ぶりや、おどりだけで<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "バレエ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "しばいやおどりなどの<ruby><rb>演技</rb><rt>えんぎ</rt></ruby>をする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ステージ。",
+          "hyouki": [
+            "舞台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "舞台"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "しなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>働</rb><rt>はたら</rt></ruby>かせる。",
+          "hyouki": [
+            "役"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "役"
+          ]
+        }
+      ]
+    }
+  }
+}
